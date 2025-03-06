@@ -69,4 +69,5 @@ Bat dau chuong trinh
             In a[i] ra man hinh
 
 Ket thuc chuong trinh
+-> độ phức tạp thuật toán : O(n()
 
