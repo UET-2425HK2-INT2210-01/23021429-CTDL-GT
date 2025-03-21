@@ -1,0 +1,8 @@
+Một hàm băm tốt cần có hai tính chất quan trọng sau:
+
+Phân bố đều (Giảm va chạm):
+
+Hàm băm nên phân phối giá trị băm một cách đồng đều trên không gian đầu ra. Điều này giúp giảm thiểu xung đột (collision), tức là hai đầu vào khác nhau không nên có cùng một giá trị băm, đặc biệt quan trọng trong bảng băm (hash table).
+Tính xác định (Nhất quán):
+
+Với cùng một đầu vào, hàm băm phải luôn tạo ra cùng một giá trị băm. Điều này đảm bảo tính nhất quán khi truy xuất và so sánh dữ liệu.
